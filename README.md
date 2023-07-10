@@ -1,7 +1,7 @@
 # School_Administration https://github.com/mathiasF21/School_Administration.git
 
 Made by: Hernan Mathias Farina Forster.
-E-mail: mathiasforster@gmail.com.
+E-mail: mathiasforster21@gmail.com.
 
 # Technologies used:
 
